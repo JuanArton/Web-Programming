@@ -1,1 +1,6 @@
-Repository tugas pemrograman web
+- HTML
+- CSS
+- PHP
+- Javascript
+- Bootstrap
+- Laravel

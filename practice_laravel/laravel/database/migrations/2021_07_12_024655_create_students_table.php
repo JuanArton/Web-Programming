@@ -19,6 +19,7 @@ class CreateStudentsTable extends Migration
             $table->string('name');
             $table->char('gender',1);
             $table->string('departement');
+            $table->string('image');
             $table->text('address')->nullable();
             $table->timestamps();
         });
